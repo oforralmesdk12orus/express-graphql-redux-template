@@ -1,0 +1,25 @@
+{
+  "name": "express-graphql-redux-template",
+  "version": "1.0.0",
+  "description": "express graphql redux template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oforralmesdk12orus/express-graphql-redux-template.git"
+  },
+  "keywords": [
+    "express",
+    "graphql",
+    "redux",
+    "template"
+  ],
+  "author": "Oliver Forral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oforralmesdk12orus/express-graphql-redux-template/issues"
+  },
+  "homepage": "https://github.com/oforralmesdk12orus/express-graphql-redux-template#readme"
+}
